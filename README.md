@@ -1,6 +1,6 @@
 # Simulador de Eventos Discretos para Sistemas em Tempo Real
 
-Este projeto é um **simulador de eventos discretos** que implementa algoritmos de escalonamento para sistemas de tarefas em um ou mais processadores. Ele possui uma interface simples para interação com o usuário.
+Este projeto é um **simulador de eventos discretos** que implementa algoritmo de escalonamento Rate Monotonic para sistemas de tarefas em um ou mais processadores. Ele possui uma interface simples para interação com o usuário.
 [📄 Documentação detalhada no Google Docs](https://docs.google.com/document/d/18PGPv6ZAt6u1aSauLRrUWZNqD4UNs-0aZlUHuSEVN_k/edit?usp=sharing)
 
 ---
