@@ -5,6 +5,7 @@ Este projeto é um **simulador de eventos discretos** que implementa algoritmos 
 ---
 
 ## Estrutura do Projeto
+```sh
 ├── src
 │ ├── main.py # Ponto de entrada do simulador
 │ ├── simulator # Contém a lógica principal da simulação
