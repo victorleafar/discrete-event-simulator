@@ -99,4 +99,5 @@ Responsável pela interface simples com o usuário.
 5. **Informe o número de processadores quando solicitado**
 6. **Veja o resultado do escalonamento (exemplo: Rate Monotonic)**
 
-Doc explicativo: https://docs.google.com/document/d/18PGPv6ZAt6u1aSauLRrUWZNqD4UNs-0aZlUHuSEVN_k/edit?usp=sharing 
+[📄 Documentação detalhada no Google Docs](https://docs.google.com/document/d/18PGPv6ZAt6u1aSauLRrUWZNqD4UNs-0aZlUHuSEVN_k/edit?usp=sharing)
+ 
