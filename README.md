@@ -49,12 +49,9 @@ Contém a lógica central da simulação e os algoritmos de escalonamento.
   Define as classes de eventos (ex: chegada e término de tarefas) que podem ser usados na simulação.
 
 - **scheduler.py**  
-  Implementa os algoritmos de escalonamento, como:
-  - FCFS (First-Come-First-Served)
-  - Round Robin
-  - SJF (Shortest Job First)
+  Implementa o algoritmo de escalonamento, como:
   - Rate Monotonic (RM)  
-  Permite simulação em um ou mais processadores.
+  Permite simulação.
 
 - **__init__.py**  
   Arquivo para tornar o diretório um pacote Python.
